@@ -1,0 +1,14 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1em;
+    
+}
+h1 {
+    font-size: 5em;
+}
+body{
+    background-color: #F6F5F5;
+}
+ul {
+    list-style-type: none;
+}
