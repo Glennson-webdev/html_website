@@ -1,14 +1,20 @@
-* {
+*{
     font-family: 'Courier New', Courier, monospace;
     font-size: 1em;
-    
 }
-h1 {
+h1{
     font-size: 5em;
+}
+h2{
+    border-style: groove;
+    border-color: #372948;
 }
 body{
     background-color: #F6F5F5;
 }
-ul {
+ul{
     list-style-type: none;
 }
+img{
+    border-radius: 50%;
+  }
